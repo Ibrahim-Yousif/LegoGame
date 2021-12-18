@@ -1,0 +1,33 @@
+.gaming-section{
+  display: inline-block;
+  position: absolute;
+  left: 500px;
+  top:100px;
+  border: solid 3px black;
+  background-color:#ccffff;
+  height: 520px;
+  width: 522px;
+}
+.scoreboard{
+  display: inline-block;
+  height: 90vh;
+  width: 300px;
+  border: solid 2px black;
+  background-color: #ccffff;
+}
+
+img{
+  height:50px;
+  width:50px;
+  margin:2px 2px 0;
+  padding: 0;
+}
+
+.number-of-clicks{
+  height:100px;
+  width:150px;
+  background-color: #ccffff;
+  position: absolute;
+  top: 1rem;
+  right: 3rem;
+}
